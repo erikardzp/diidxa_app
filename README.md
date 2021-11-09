@@ -1,6 +1,7 @@
-# Diidxa_App
+# Diidxa
 
-A new Flutter application.
+it's a Flutter application, where we do a small teaching on the indigenous language of the
+Zapotec.
 
 ## Getting Started
 
