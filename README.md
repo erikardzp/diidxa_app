@@ -3,6 +3,10 @@
 A Flutter application, where we do a small teaching on the indigenous language of the
 Zapotec.
 
+Made by: 
+-https://github.com/erikardzp
+-Mariano Aldair Aquino Regalado
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
