@@ -1,4 +1,4 @@
-# diidxa_app
+# Diidxa_App
 
 A new Flutter application.
 
