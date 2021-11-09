@@ -1,0 +1,88 @@
+[
+    {
+        "1": "¿Platano?",
+        "2": "¿Tomate?",
+        "3": "¿Sandia?",
+        "4": "¿Maiz?",
+        "5": "¿Limon?",
+        "6": "¿Dulce?",
+        "7": "¿Tortilla?",
+        "8": "¿Chocolate?",
+        "9": "¿Cafe?",
+        "10": "¿Cerveza?"
+    },
+    {
+        "1": {
+            "a": "Cuanaí",
+            "b": "Bichi'ña",
+            "c": "Dxuladi",
+            "d": "Biduaa"
+        },
+        "2": {
+            "a": "Bichi'ña",
+            "b": "Shandie",
+            "c": "Bichooshe",
+            "d": "Niza"
+        },
+        "3": {
+            "a": "Niza",
+            "b": "Shandie",
+            "c": "Dxuladi",
+            "d": "Bichooshe"
+        },
+        "4": {
+            "a": "Niza",
+            "b": "Shandie",
+            "c": "Biduaa",
+            "d": "Bichi'ña"
+        },
+        "5": {
+            "a": "Cuanaí",
+            "b": "Shandie",
+            "c": "Bichi'ña",
+            "d": "Dxuladi"
+        },
+        "6": {
+            "a": "Bichooshe",
+            "b": "Bichi'ña",
+            "c": "Cuanaí",
+            "d": "Dxinña"
+        },
+        "7": {
+            "a": "Cuanaí",
+            "b": "Gueta",
+            "c": "Dxuladi",
+            "d": "Biduaa"
+        },
+        "8": {
+            "a": "Bichi'ña",
+            "b": "Biduaa",
+            "c": "Dxuladi",
+            "d": "Niza"
+        },
+        "9": {
+            "a": "Shandie",
+            "b": "Bichooshe",
+            "c": "Biziaanda",
+            "d": "Bichi'ña"
+        },
+        "10": {
+            "a": "Shandie",
+            "b": "Bichi'ña",
+            "c": "Dxuladi",
+            "d": "Biduaa"
+        }
+    },
+    {
+        "1": "Biduaa",
+        "2": "Bichooshe",
+        "3": "Shandie",
+        "4": "Niza",
+        "5": "Cuanaí",
+        "6": "Dxinña",
+        "7": "Gueta",
+        "8": "Dxuladi",
+        "9": "Biziaanda",
+        "10": "Bichi'ña"
+    }
+]

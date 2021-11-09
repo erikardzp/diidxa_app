@@ -1,0 +1,88 @@
+[
+    {
+        "1": "¿Uno?",
+        "2": "¿Dos?",
+        "3": "¿Tres?",
+        "4": "¿Cuatro?",
+        "5": "¿Cinco?",
+        "6": "¿Seis?",
+        "7": "¿Siete?",
+        "8": "¿Ocho?",
+        "9": "¿Nueve?",
+        "10": "¿Diez?"
+    },
+    {
+        "1": {
+            "a": "Chii",
+            "b": "Tobi",
+            "c": "Gadxe",
+            "d": "Taapa"
+        },
+        "2": {
+            "a": "Ga",
+            "b": "Chii",
+            "c": "Chuppa",
+            "d": "Shoopa"
+        },
+        "3": {
+            "a": "Gadxe",
+            "b": "Chonna",
+            "c": "Chonna",
+            "d": "Tobi"
+        },
+        "4": {
+            "a": "Taapa",
+            "b": "Gaayu",
+            "c": "Chii",
+            "d": "Shoopa"
+        },
+        "5": {
+            "a": "Taapa",
+            "b": "Ga",
+            "c": "Tobi",
+            "d": "Gaayu"
+        },
+        "6": {
+            "a": "Chii",
+            "b": "Shono",
+            "c": "Chuupa",
+            "d": "Shoopa"
+        },
+        "7": {
+            "a": "Ga",
+            "b": "Chuppa",
+            "c": "Gadxe",
+            "d": "Taapa"
+        },
+        "8": {
+            "a": "Ga",
+            "b": "Shono",
+            "c": "Chii",
+            "d": "Tobi"
+        },
+        "9": {
+            "a": "Ga",
+            "b": "Shoopa",
+            "c": "Chonna",
+            "d": "Gadxe"
+        },
+        "10": {
+            "a": "Ga",
+            "b": "Chii",
+            "c": "Tobi",
+            "d": "Chuppa"
+        }
+    },
+    {
+        "1": "Tobi",
+        "2": "Chuppa",
+        "3": "Chonna",
+        "4": "Taapa",
+        "5": "Gaayu",
+        "6": "Shoopa",
+        "7": "Gadxe",
+        "8": "Shono",
+        "9": "Ga",
+        "10": "Chii"
+    }
+]

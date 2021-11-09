@@ -1,0 +1,88 @@
+[
+  {
+    "1": "¿Mesa?",
+    "2": "¿Juguete?",
+    "3": "¿Silla?",
+    "4": "¿Collar?",
+    "5": "¿Mochila?",
+    "6": "¿Sombrero?",
+    "7": "¿Casa?",
+    "8": "¿Arma?",
+    "9": "¿Vela?",
+    "10": "¿Pelota?"
+  },
+  {
+    "1": {
+      "a": "Mexha'",
+      "b": "Bishiapa",
+      "c": "Yoo'",
+      "d": "Tanguyú"
+    },
+    "2": {
+      "a": "Bangu'",
+      "b": "Guiidibandaa'",
+      "c": "Tanguyú",
+      "d": "Gui'ri"
+    },
+    "3": {
+      "a": "Guiidibandaa'",
+      "b": "Mexha'",
+      "c": "Gui'ri",
+      "d": "Bangu'"
+    },
+    "4": {
+      "a": "Biga'",
+      "b": "Tanguyú",
+      "c": "Guiidibandaa'",
+      "d": "Bishiapa"
+    },
+    "5": {
+      "a": "Gui'ri",
+      "b": "Biga'",
+      "c": "Bishiapa",
+      "d": "Tanguyú"
+    },
+    "6": {
+      "a": "Bishiapa",
+      "b": "Guiidibandaa'",
+      "c": "Yoo'",
+      "d": "Mexha'"
+    },
+    "7": {
+      "a": "Bangu'",
+      "b": "Yoo'",
+      "c": "Gui'ri",
+      "d": "Guiiba"
+    },
+    "8": {
+      "a": "Biga'",
+      "b": "Bangu'",
+      "c": "Guiiba",
+      "d": "Gui'ri"
+    },
+    "9": {
+      "a": "Biga'",
+      "b": "Bishiapa",
+      "c": "Gui'ri",
+      "d": "Bidoola"
+    },
+    "10": {
+      "a": "Gui'ri",
+      "b": "Mexha'",
+      "c": "Bidoola",
+      "d": "Biga'"
+    }
+  },
+  {
+    "1": "Mexha'",
+    "2": "Tanguyú",
+    "3": "Bangu'",
+    "4": "Biga'",
+    "5": "Bishiapa",
+    "6": "Guiidibandaa'",
+    "7": "Yoo'",
+    "8": "Guiiba",
+    "9": "Gui'ri",
+    "10": "Bidoola"
+  }
+]

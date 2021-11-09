@@ -1,0 +1,88 @@
+[
+  {
+    "1": "¿Azul cielo?",
+    "2": "¿Rojo?",
+    "3": "¿Amarillo?",
+    "4": "¿Verde?",
+    "5": "¿Naranja?",
+    "6": "¿Rosa?",
+    "7": "¿Blanco?",
+    "8": "¿Negro?",
+    "9": "¿Morado?",
+    "10": "¿Gris?"
+  },
+  {
+    "1": {
+      "a": "Nasiá",
+      "b": "Nayaa'",
+      "c": "Naquichi'",
+      "d": "Naxhiñaa'"
+    },
+    "2": {
+      "a": "Naquichi'",
+      "b": "Naguchi",
+      "c": "Naxhiñaa'",
+      "d": "Nayaa'"
+    },
+    "3": {
+      "a": "Naquichi'",
+      "b": "Nayuu'",
+      "c": "Naguchi",
+      "d": "Naxhiñaa'"
+    },
+    "4": {
+      "a": "Naxhiñaa yati",
+      "b": "Naxhiñaa'",
+      "c": "Naquichi'",
+      "d": "Nayaa'"
+    },
+    "5": {
+      "a": "Nabiguitu",
+      "b": "Nasiá",
+      "c": "Naquichi'",
+      "d": "Naguchi"
+    },
+    "6": {
+      "a": "Nagugüi",
+      "b": "Naguchi",
+      "c": "Naxhiñaa yati",
+      "d": "Nabiguitu"
+    },
+    "7": {
+      "a": "Nayaa'",
+      "b": "Nabiguitu",
+      "c": "Naquichi'",
+      "d": "Naguchi"
+    },
+    "8": {
+      "a": "Nayaa'",
+      "b": "Nasiá",
+      "c": "Nayaase",
+      "d": "Nabiguitu"
+    },
+    "9": {
+      "a": "Naguchi",
+      "b": "Nagugüi",
+      "c": "Naxhiñaa'",
+      "d": "Naquichi'"
+    },
+    "10": {
+      "a": "Naguchi",
+      "b": "Nayaa'",
+      "c": "Nayuu'",
+      "d": "Nasiá"
+    }
+  },
+  {
+    "1": "Nasiá",
+    "2": "Naxhiñaa'",
+    "3": "Naguchi",
+    "4": "Nayaa'",
+    "5": "Nabiguitu",
+    "6": "Naxhiñaa yati",
+    "7": "Naquichi'",
+    "8": "Nayaase",
+    "9": "Nagugüi",
+    "10": "Nayuu'"
+  }
+]

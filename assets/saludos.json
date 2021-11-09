@@ -1,0 +1,88 @@
+[
+  {
+    "1": "¿Hola?",
+    "2": "¿Hola, como estas?",
+    "3": "¿Buenos días?",
+    "4": "¿Buenas noches?",
+    "5": "¿Buenas tardes?",
+    "6": "¿Buen mediodia?",
+    "7": "¿Nos vemos?",
+    "8": "¿Como estas?",
+    "9": "¿Bien?",
+    "10": "¿Que te vaya bien?"
+  },
+  {
+    "1": {
+      "a": "Sicarú Siadó",
+      "b": "Shitalsha",
+      "c": "Padiuxi",
+      "d": "Sicarú cheú"
+    },
+    "2": {
+      "a": "Padiuxi",
+      "b": "Sicarú cheú",
+      "c": "Galan",
+      "d": "Shitalsha"
+    },
+    "3": {
+      "a": "Sicarú Siadó",
+      "b": "Sicarú huadxi",
+      "c": "Sicarú galaadxi",
+      "d": "Shitalsha"
+    },
+    "4": {
+      "a": "Sicarú galaadxi",
+      "b": "Sicarú huadxi",
+      "c": "Sicarú Siadó",
+      "d": "Sicarú huaxhinni"
+    },
+    "5": {
+      "a": "Sicarú galaadxi",
+      "b": "Sicarú huadxi",
+      "c": "Sicarú huaxhinni",
+      "d": "Sicarú Siadó"
+    },
+    "6": {
+      "a": "Sicarú huadxi",
+      "b": "Sicarú galaadxi",
+      "c": "Sicarú Siadó",
+      "d": "Sicarú huaxhinni"
+    },
+    "7": {
+      "a": "Cadu'yanu'",
+      "b": "Shitalsha",
+      "c": "Galan",
+      "d": "Xi nuu xou´"
+    },
+    "8": {
+      "a": "Padiuxi",
+      "b": "Galan",
+      "c": "Xi nuu xou´",
+      "d": "Sicarú galaadxi"
+    },
+    "9": {
+      "a": "Cadu'yanu'",
+      "b": "Padiuxi",
+      "c": "Galan",
+      "d": "Sicarú cheú"
+    },
+    "10": {
+      "a": "Sicarú cheú",
+      "b": "Shitalsha",
+      "c": "Cadu'yanu'",
+      "d": "Sicarú Siadó"
+    }
+  },
+  {
+    "1": "Padiuxi",
+    "2": "Shitalsha",
+    "3": "Sicarú Siadó",
+    "4": "Sicarú huaxhinni",
+    "5": "Sicarú huadxi",
+    "6": "Sicarú galaadxi",
+    "7": "Cadu'yanu'",
+    "8": "Xi nuu xou´",
+    "9": "Galan",
+    "10": "Sicarú cheú"
+  }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "1": "¿Perro?",
+        "2": "¿Cerdo?",
+        "3": "¿Vaca?",
+        "4": "¿Pez?",
+        "5": "¿Iguana?",
+        "6": "¿Tortuga?",
+        "7": "¿Ardilla?",
+        "8": "¿Caballo?",
+        "9": "¿Guajolote?",
+        "10": "¿Gato?"
+    },
+    {
+        "1": {
+            "a": "Bi'cu",
+            "b": "Bihui",
+            "c": "Yuuse",
+            "d": "Benda"
+        },
+        "2": {
+            "a": "Chida",
+            "b": "Bihui",
+            "c": "Tou",
+            "d": "Mixtu"
+        },
+        "3": {
+            "a": "Màni",
+            "b": "Chisa",
+            "c": "Mixtu",
+            "d": "Yuuse"
+        },
+        "4": {
+            "a": "Bihui",
+            "b": "Bi'cu",
+            "c": "Benda",
+            "d": "Mixtu"
+        },
+        "5": {
+            "a": "Yuuse",
+            "b": "Benda",
+            "c": "Tou",
+            "d": "Guchachi"
+        },
+        "6": {
+            "a": "Chisa",
+            "b": "Bigu",
+            "c": "Benda",
+            "d": "Chisa"
+        },
+        "7": {
+            "a": "Chisa",
+            "b": "Bi'cu",
+            "c": "Mixtu",
+            "d": "Guchachi"
+        },
+        "8": {
+            "a": "Yuuse",
+            "b": "Guchani",
+            "c": "Màni",
+            "d": "Tou"
+        },
+        "9": {
+            "a": "Bi'cu",
+            "b": "Guchachi",
+            "c": "Chisa",
+            "d": "Tou"
+        },
+        "10": {
+            "a": "Bigu",
+            "b": "Mixtu",
+            "c": "Yuuse",
+            "d": "Bihui"
+        }
+    },
+    {
+        "1": "Bi'cu",
+        "2": "Bihui",
+        "3": "Yuuse",
+        "4": "Benda",
+        "5": "Guchachi",
+        "6": "Bigu",
+        "7": "Chisa",
+        "8": "Màni",
+        "9": "Tou",
+        "10": "Mixtu"
+    }
+]
