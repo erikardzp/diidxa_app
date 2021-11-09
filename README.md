@@ -41,8 +41,8 @@ Test view, here the user can practice each vocabulary.
 
 ## Vacabulary Test
 Once a test is choosen, it will appear the word and the possibles anwers, it also has a countdown.
-- Blue: Choosen anwser is correct
-- Red: Choosen anwser is incorrect
+- Blue: Choosen answer is correct
+- Red: Choosen answers is incorrect
 
 <img height="400" src="https://github.com/erikardzp/diidxa_app/blob/master/website/diixda_4.png" alt="Diidxa card example screen"/>
 
